@@ -1,0 +1,28 @@
+<?php
+
+return [
+  'Literature & Language',
+  'History',
+  'Philosophy',
+  'Sociology',
+  'Psychology',
+  'Political Science',
+  'Economics',
+  'Education',
+  'Law',
+  'Mathematics',
+  'Physics',
+  'Chemistry',
+  'Biology',
+  'Engineering & Technology',
+  'Medicine & Health Sciences',
+  'Environmental Studies',
+  'Computer Science',
+  'Business & Management',
+  'Art & Architecture',
+  'Music & Performing Arts',
+  'Religious Studies',
+  'Anthropology',
+  'Geography & Earth Sciences',
+  'Library & Information Science',
+];
